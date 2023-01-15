@@ -7,3 +7,8 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
